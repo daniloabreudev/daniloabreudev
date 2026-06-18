@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is José Danilo and I'm a Software Engineering student, from Olho D'Água das Flores - AL, Brazil.</h2>
+<h2 align="left">Hi 👋! My name is Danilo Abreu and I'm a Software Engineering student, from Olho D'Água das Flores - AL, Brazil.</h2>
 
 ###
 
