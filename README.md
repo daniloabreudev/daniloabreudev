@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! My name is Danilo Abreu and I'm a Software Engineering student, from Olho D'Água das Flores - AL, Brazil.</h2>
+<h2 align="left">Hi 👋! My name is José Danilo, I'm 23 years old and I'm a Software Engineering student & Full Stack Developer in training, from Alagoas, Brazil.</h2>
+
+###
+
+<p align="left">
+🎯 <b>Em busca de oportunidades no mercado de tecnologia como Desenvolvedor Júnior / Estagiário.</b> Dedicado ao aprendizado contínuo, focado na construção de sistemas eficientes, automações com Python e estruturação profissional de Banco de Dados.
+</p>
 
 ###
 
@@ -9,21 +15,22 @@
 
 ###
 
+<h3 align="left">🛠️ Tecnologias e Habilidades:</h3>
+
 <div align="left">
-  <!-- Python (Sua especialidade) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <!-- HTML5 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <!-- CSS3 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="HTML5" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" title="CSS3" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" title="MySQL" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" title="PostgreSQL" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" title="Git" />
 </div>
 
 ###
@@ -32,13 +39,15 @@
   <a href="https://linkedin.com/in/daniloabreudev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
+  <a href="abreudanilojdas456@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
 </div>
 
 ###
 
 <br clear="both">
 
-<!-- O Jogo da Cobrinha comendo os seus commits -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daniloabreudev/daniloabreudev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daniloabreudev/daniloabreudev/output/github-contribution-grid-snake.svg">
