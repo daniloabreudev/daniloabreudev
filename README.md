@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is José Danilo, I'm 23 years old and I'm a Software Engineering student & Full Stack Developer in training, from Alagoas, Brazil.</h2>
+<h2 align="left">Hi 👋! My name is Danilo Abreu, I'm 23 years old and I'm a Software Engineering student & Full Stack Developer in training, from Alagoas, Brazil.</h2>
 
 ###
 
@@ -39,7 +39,7 @@
   <a href="https://linkedin.com/in/daniloabreudev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="abreudanilojdas456@gmail.com">
+  <a href="mailto:abreudanilojdas456@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 </div>
